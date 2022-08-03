@@ -1,1 +1,1 @@
-# gameCo
+# GameCo
